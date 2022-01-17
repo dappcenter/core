@@ -2,7 +2,7 @@
   "name": "@biswap/core",
   "description": "🎛 Core contracts for the Biswap protocol",
   "version": "1.0.1",
-  "homepage": "https://biswap.org",
+  "homepage": ".",
   "repository": {
     "type": "git",
     "url": "https://github.com/biswap-org/core"
